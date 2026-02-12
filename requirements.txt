@@ -1,0 +1,6 @@
+pdfminer.six>=20201018
+python-docx>=0.8.11
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4.post2
+numpy>=1.21.0
+tqdm>=4.64.0
